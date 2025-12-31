@@ -40,6 +40,9 @@ header h2 {
 
 section {
   margin-bottom: 2.5rem;
+    background-color: whitesmoke;
+    border-radius: 1em;
+    padding: 0.1em 1em;
 }
 
 /* Rubriker */
